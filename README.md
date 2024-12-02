@@ -33,8 +33,6 @@ El objetivo principal fue aprender y aplicar habilidades clave en desarrollo de 
 
 ## 🖥️ **Capturas de Pantalla**
 
-*(Incluye algunas capturas de pantalla de la aplicación para mostrar su interfaz y funcionalidades principales)*
-
 ![image](https://github.com/user-attachments/assets/a2899d70-abcc-4f21-89f1-d93e5e80ba62)
 
 ---
