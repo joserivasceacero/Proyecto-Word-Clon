@@ -42,8 +42,6 @@ El objetivo principal fue aprender y aplicar habilidades clave en desarrollo de 
 ## 👤 **Autor**
 
 - **Nombre:** [Jose Rivas Ceacero]
-- **Contacto:** [joserivasceacero@gmail.com]
-- **Portafolio:** [(https://www.linkedin.com/in/jose-rivas-ceacero/)]
 
 ---
 
