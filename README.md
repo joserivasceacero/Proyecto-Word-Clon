@@ -23,10 +23,10 @@ El objetivo principal fue aprender y aplicar habilidades clave en desarrollo de 
 
 ## 🛠️ **Tecnologías Utilizadas**
 
-- Lenguaje de programación: [Indica el lenguaje, por ejemplo: Python, Java, C#, etc.]
+- Lenguaje de programación: [Java]
 - Frameworks/Bibliotecas:
-  - [Ejemplo: Tkinter, JavaFX, .NET, etc.]
-- Gestión de dependencias: [Ejemplo: Maven, npm, Pip, etc.]
+  - [Java Swing]
+- Gestión de dependencias: [Maven]
 - Sistema de control de versiones: Git
 
 ---
